@@ -1,13 +1,13 @@
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Autoplay } from "swiper";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
-import "swiper/css/autoplay"
+import "swiper/css/autoplay";
+import {Autoplay , Pagination } from 'swiper/modules';
 
-// import required modules
-import { Pagination } from "swiper";
+
+
 
 
 import testimonials from './data'
