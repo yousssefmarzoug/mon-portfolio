@@ -22,13 +22,7 @@ const data = [
         name: 'Ernest Achiever',
         profession: 'Web Developer'
         },
-        {
-        id: 3,
-        quote: "Impressive work, buddy. Highly recommend!",
-        avatar: Avatar3,
-        name: 'Daniel Vinyo',
-        profession: 'Graphic Designer'
-        },
+        
         {
         id: 4,
         quote: "Wow. You finished earlier than you said. Everything's modern and beautifully done to the T. Great profession!",
