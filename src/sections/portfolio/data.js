@@ -2,9 +2,9 @@ import Image1 from '../../assets/project11.png'
 import Image2 from '../../assets/project22.png'
 import Image3 from '../../assets/project33.png'
 import Image4 from '../../assets/project44.png'
-import Image5 from '../../assets/project5.jpg'
-import Image6 from '../../assets/project6.jpg'
-import Image7 from '../../assets/project7.jpg'
+import Image5 from '../../assets/project55.png'
+import Image6 from '../../assets/project66.png'
+import Image7 from '../../assets/project77.png'
 import Image8 from '../../assets/project8.jpg'
 import Image9 from '../../assets/project9.jpg'
 
@@ -48,20 +48,29 @@ const data = [
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
-   /*
+   
     {
-        id: 5,
+        id: 7,
         category: 'frontend',
-        image: Image9,
+        image: Image7,
         title: "Project Title Nine (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
-    },*/
+    },
+    {
+        id: 5,
+        category: 'backend',
+        image: Image5,
+        title: "Project Title Eight (Backend)",
+        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        demo: 'http://egatortutorials.com',
+        github: 'https://github.com/egattor'
+    },
     {
         id: 6,
         category: 'backend',
-        image: Image8,
+        image: Image6,
         title: "Project Title Eight (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
         demo: 'http://egatortutorials.com',
