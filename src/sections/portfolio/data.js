@@ -17,7 +17,7 @@ const data = [
         title: "Project Title one (Frontend)",
         desc: "",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/yousssefmarzoug/ejs-challenge-final.git'
     },
     {
         id: 2,
@@ -26,7 +26,7 @@ const data = [
         title: "Project Title two (Frontend)",
         desc: "",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/yousssefmarzoug/html-best-practices.git'
     },
     
     
@@ -37,7 +37,7 @@ const data = [
         title: "Project Title three (Frontend)",
         desc: "",
         demo: 'https://todolist-y9qd.onrender.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/yousssefmarzoug/todolist-v2-completed-app.git'
     },
     {
         id: 4,
@@ -56,7 +56,7 @@ const data = [
         title: "Project Title Nine (Frontend)",
         desc: "",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/yousssefmarzoug/mon-portfolio.git'
     },
     {
         id: 5,
@@ -74,7 +74,7 @@ const data = [
         title: "Project Title Eight (Backend)",
         desc: "",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/yousssefmarzoug/finil-sans-stripe.git'
     }
 ]
 
