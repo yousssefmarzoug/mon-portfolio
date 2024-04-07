@@ -5,6 +5,8 @@ import Image4 from '../../assets/project44.png'
 import Image5 from '../../assets/project55.png'
 import Image6 from '../../assets/project66.png'
 import Image7 from '../../assets/project77.png'
+import Image88 from '../../assets/project88.png'
+import Image99 from '../../assets/project99.png'
 import Image8 from '../../assets/project8.jpg'
 import Image9 from '../../assets/project9.jpg'
 
@@ -75,6 +77,24 @@ const data = [
         desc: "",
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/yousssefmarzoug/finil-sans-stripe.git'
+    },
+    {
+        id: 7,
+        category: 'backend',
+        image: Image88,
+        title: "Project Title Eight (Backend)",
+        desc: "",
+        demo: 'https://next-by-vercel-seven.vercel.app/dashboard',
+        github: 'https://github.com/yousssefmarzoug/next_by_vercel.git'
+    },
+    {
+        id: 8,
+        category: 'backend',
+        image: Image99,
+        title: "Project Title Eight (Backend)",
+        desc: "",
+        demo: '',
+        github: 'https://github.com/yousssefmarzoug/chapter10-deployment-main-cours.git'
     }
 ]
 
