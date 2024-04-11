@@ -9,7 +9,7 @@ import Image88 from '../../assets/project88.png'
 import Image99 from '../../assets/project99.png'
 import Image8 from '../../assets/project8.jpg'
 import Image9 from '../../assets/project9.jpg'
-
+import Image100 from '../../assets/project100.png'
 const data = [
     
     {
@@ -91,6 +91,15 @@ const data = [
         id: 8,
         category: 'backend',
         image: Image99,
+        title: "Project Title Eight (Backend)",
+        desc: "",
+        demo: '',
+        github: 'https://github.com/yousssefmarzoug/techlines-chapter10-deployment.git'
+    },
+    {
+        id: 8,
+        category: 'backend',
+        image: Image100,
         title: "Project Title Eight (Backend)",
         desc: "",
         demo: '',
